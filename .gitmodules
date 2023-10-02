@@ -1,0 +1,6 @@
+[submodule "fvm-encode-backend"]
+	path = fvm-encode-backend
+	url = https://github.com/hfccr/fvm-encode-backend
+[submodule "fvm-encode-frontend"]
+	path = fvm-encode-frontend
+	url = https://github.com/hfccr/fvm-encode-frontend
